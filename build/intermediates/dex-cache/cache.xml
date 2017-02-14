@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android Project\VoiceTheNews\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4157816e81f0820983957687e9a6f4c1cea0f1e5">
+        <dex dex="D:\Android Project\VoiceTheNews\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.0_ed081290d96b1851a885361e4a66cabc96ce446d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Project\VoiceTheNews\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="D:\Android Project\VoiceTheNews\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.0_07debe929e5400e2bcdcd705748d3ec2d7613f31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Project\VoiceTheNews\app\libs\js.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="52ea5391619be0e750a878d496ca175032f725bd">
+        <dex dex="D:\Android Project\VoiceTheNews\app\build\intermediates\pre-dexed\debug\js_b822f8d67806fbd03ad3a0c02c133fac549037e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\Android Project\VoiceTheNews\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_b4325d36f64bf430dd13916db7e0eadd66a26075.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Project\VoiceTheNews\app\build\intermediates\exploded-aar\com.android.support\design\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8620c018c108eed501bbdb85324b79136373ea44">
+        <dex dex="D:\Android Project\VoiceTheNews\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.0_b3d838397ca4a14f6a7d17d4fd7b32d11dcf6b8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Project\VoiceTheNews\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="D:\Android Project\VoiceTheNews\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.0_8626fea94ab34f430ae9549f6dc3a1ba1a4f3089.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Project\VoiceTheNews\app\build\intermediates\exploded-aar\com.github.fafaldo\fab-toolbar\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="914655ea8bbd3367dd5cebf2282e636cd3d95389">
+        <dex dex="D:\Android Project\VoiceTheNews\app\build\intermediates\pre-dexed\debug\com.github.fafaldo-fab-toolbar-1.2.0_463fe6a5fda8df6b700c8a37d0da2a7ad2987985.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\moham\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.9.2\5e3bda828a80c7a21dfbe2308d1755759c2fd7b4\jsoup-1.9.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5e3bda828a80c7a21dfbe2308d1755759c2fd7b4">
+        <dex dex="D:\Android Project\VoiceTheNews\app\build\intermediates\pre-dexed\debug\jsoup-1.9.2_74a88ec3f7774c008501dbe0f60cfee0b5c0c095.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Project\VoiceTheNews\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="D:\Android Project\VoiceTheNews\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.1.1_47ac0e26b4216ffcc1fbda074b331f6bc2626d07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Project\VoiceTheNews\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="D:\Android Project\VoiceTheNews\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.0_74a908804bfb0d513ec73ebeb0cb627e4649f2ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Project\VoiceTheNews\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="D:\Android Project\VoiceTheNews\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.0_cd8546eaec3ad7bc4f2067bf899fd366b956170c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Project\VoiceTheNews\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\libs\internal_impl-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="D:\Android Project\VoiceTheNews\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.0_86ad17ffda50c1ce3a5a6d9a45410f5e79d005a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\moham\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="D:\Android Project\VoiceTheNews\app\build\intermediates\pre-dexed\debug\gson-2.4_51f1c4b3267ec61303cabc03226431bb6ad2b923.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Voice The News"
+        android:paddingTop="20dp"
+        android:paddingLeft="15dp"
+        android:paddingBottom="10dp"
+        android:textStyle="normal|bold"
+        android:fontFamily="sans-serif"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:id="@+id/dialog_title"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical"
+        android:scrollbarAlwaysDrawVerticalTrack="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Version : Prototype 1.8"
+            android:paddingLeft="25dp"
+            android:paddingBottom="5dp"
+            android:id="@+id/rate"
+            android:textStyle="normal|bold"
+            android:textSize="16sp" />
+
+
+    </LinearLayout>
+
+    <TextView
+        android:text="Voice The News is a Final Year Project of Multimedia University (MMU) Cyberjaya. This project was solely completed by Mohamad Azrie Bin Mohd Bakri with the supervision of Dr. Ian Chai and are not affliated with MalaysiaKini in anyway."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:paddingLeft="25dp"
+        android:textAlignment="textStart" />
+
+</LinearLayout>

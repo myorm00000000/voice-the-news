@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:layout_height="wrap_content" android:layout_width="wrap_content">
+    <PreferenceScreen
+        android:title="General Settings"
+        android:key="General Settings"
+        android:persistent="false">
+
+        <Preference
+            android:key="languageOption"
+            android:title="News Language"/>
+
+        <CheckBoxPreference
+            android:key="autoplay"
+            android:title="Automatic Voice The News"
+            android:summary="Voice news and move to next news when finish automatically"
+            android:defaultValue="true" />
+
+        <CheckBoxPreference
+            android:key="autoDownloadPreference"
+            android:title="Offline mode"
+            android:summary="Download news for offline reading"
+            android:defaultValue="true"/>
+
+        <Preference
+            android:key="clearDownloadPreference"
+            android:title="Clear Downloaded News"/>
+
+        <Preference
+            android:key="clearLogin"
+            android:title="Clear Login Details"/>
+
+    </PreferenceScreen>
+
+    <PreferenceScreen
+        android:title="Text-To-Speech Settings"
+        android:key="TTS Settings"
+        android:persistent="false">
+
+        <Preference
+            android:title="Voice language"
+            android:key="TTSLanguage"
+            android:summary="System language"/>
+
+        <Preference
+            android:title="Voice speech rate"
+            android:key="TTSRate"
+            android:summary="Speed at which the language is spoken"/>
+
+        <Preference
+            android:title="Voice pitch level"
+            android:key="TTSPitch"
+            android:summary="Pitch at which the language is spoken"/>
+
+        <Preference
+            android:title="Listen to an example"
+            android:key="exampleTTS"
+            android:summary="Play a short demonstration of speech synthesis"/>
+        
+
+    </PreferenceScreen>
+
+    <PreferenceScreen
+        android:title="About"
+        android:key="aboutVTN"
+        android:persistent="false">
+
+    </PreferenceScreen>
+
+</PreferenceScreen>

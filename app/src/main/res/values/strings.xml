@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Voice The News</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="titleList">ListDisplay</string>
+    <string name="action_settings">Settings</string>
+    <string name="urltext">Not a subscriber ? <a href="http://msub.malaysiakini.com/" style="text-decoration: none;"><font color='blue'>Subscribe now </font></a></string>
+</resources>
