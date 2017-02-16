@@ -16,7 +16,7 @@ Voice The News is not affliated with MalaysiaKini in anyway and any organization
 
 Misc
 ------
-Project APK : To be update
+Project APK : https://goo.gl/nrJqe3
 
-Project Demo : To be update
+Project Demo : https://goo.gl/ZNK3Yw
 
